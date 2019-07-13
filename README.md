@@ -23,6 +23,11 @@ Note that when 'viewing' the rendered notebooks on the Azure service
 there may be some display artefacts. For the best experience, 'clone'
 the library to use the notebooks in a Jupyter environment.
 
+## Multi-language version
+
+These notebooks are also available in other languages.
+
+* [Simplify Chinese version,简体中文版](.zh-CN)
 
 ## Getting started
 

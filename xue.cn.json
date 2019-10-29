@@ -1,12 +1,13 @@
 {
   "version": "0.1",
   "name": "了解计算-Python零基础",
-  "cover": "https://diybookcovers.com/wp-content/uploads/2015/01/afiction1.jpg",
+  "description": "这是剑桥大学工程系计算科学的入门课程，世界名校帮你学会工作中绝对可以用上的Python技能。学习该课程并不需要任何编程经验。但它确实需要具有一定的数学知识。共包含12个适合自学的章节，每个章节配备练习题。\n翻译：金葡萄。\nAll material is copyright of Garth N. Wells (gnw20@cam.ac.uk).\nAll text is made available under the CC 4.0.\nAll computer code is released under the MIT license.",
+  "cover": "https://static.press.one/baseone/book/computing.jpg",
   "authors": [
     {
-      "name": "金葡萄",
+      "name": "goldengrape",
       "bio": "暂无",
-      "avatar": "https://avatars3.githubusercontent.com/u/1186927?s=460&v=4",
+      "avatar": "https://static.press.one/baseone/book/computing_avatar.png",
       "role": "translate"
     }
   ],

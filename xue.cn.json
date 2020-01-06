@@ -12,19 +12,19 @@
     }
   ],
   "chapters": [
-    {"path": "00 Part IA Michaelmas Term computing.ipynb","tags": [], "title": "0 前言"},
-    {"path": "01 Variables, assignment and operator precedence.ipynb","tags": [], "title": "0 1 变量，赋值和运算符优先级"},
-    {"path": "02 Control statements.ipynb","tags": [], "title": "0 2 条件控制"},
-    {"path": "03 Types, type conversions and floating point arithmetic.ipynb","tags": [], "title": "0 3 数据类型，类型转换和浮点运算"},
-    {"path": "04 Functions.ipynb","tags": [], "title": "0 4 函数"},
-    {"path": "05 Library functions.ipynb","tags": [], "title": "0 5 库函数"},
-    {"path": "06 Data structures.ipynb","tags": [], "title": "0 6 数据结构"},
-    {"path": "07 Numerical computation.ipynb","tags": [], "title": "0 7 数值运算"},
-    {"path": "08 Plotting.ipynb","tags": [], "title": "0 8 绘图"},
-    {"path": "09 Error handling and testing.ipynb","tags": [], "title": "0 9 错误处理和测试"},
-    {"path": "10 Algorithms.ipynb","tags": [], "title": "0 10 算法"},
-    {"path": "11 Complexity.ipynb","tags": [], "title": "0 11 复杂度"},
-    {"path": "12 Object-oriented design.ipynb","tags": [], "title": "0 12 面向对象的设计"
+    {"path": "00 Part IA Michaelmas Term computing.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 前言"},
+    {"path": "01 Variables, assignment and operator precedence.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 1 变量，赋值和运算符优先级"},
+    {"path": "02 Control statements.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 2 条件控制"},
+    {"path": "03 Types, type conversions and floating point arithmetic.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 3 数据类型，类型转换和浮点运算"},
+    {"path": "04 Functions.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 4 函数"},
+    {"path": "05 Library functions.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 5 库函数"},
+    {"path": "06 Data structures.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 6 数据结构"},
+    {"path": "07 Numerical computation.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 7 数值运算"},
+    {"path": "08 Plotting.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 8 绘图"},
+    {"path": "09 Error handling and testing.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 9 错误处理和测试"},
+    {"path": "10 Algorithms.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 10 算法"},
+    {"path": "11 Complexity.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 11 复杂度"},
+    {"path": "12 Object-oriented design.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 12 面向对象的设计"
     }
   ]
 }

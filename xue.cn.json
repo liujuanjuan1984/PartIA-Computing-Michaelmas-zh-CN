@@ -12,19 +12,19 @@
     }
   ],
   "chapters": [
-    {"path": "00 Part IA Michaelmas Term computing.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 前言"},
-    {"path": "01 Variables, assignment and operator precedence.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 1 变量，赋值和运算符优先级"},
-    {"path": "02 Control statements.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 2 条件控制"},
-    {"path": "03 Types, type conversions and floating point arithmetic.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 3 数据类型，类型转换和浮点运算"},
-    {"path": "04 Functions.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 4 函数"},
-    {"path": "05 Library functions.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 5 库函数"},
-    {"path": "06 Data structures.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 6 数据结构"},
-    {"path": "07 Numerical computation.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 7 数值运算"},
-    {"path": "08 Plotting.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 8 绘图"},
-    {"path": "09 Error handling and testing.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 9 错误处理和测试"},
-    {"path": "10 Algorithms.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 10 算法"},
-    {"path": "11 Complexity.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 11 复杂度"},
-    {"path": "12 Object-oriented design.ipynb","tags": ["剑桥计算科学入门课"], "title": "0 12 面向对象的设计"
+    {"path": "00 Part IA Michaelmas Term computing.ipynb","tags": ["jupyter", "剑桥计算科学入门课"], "title": "0 前言"},
+    {"path": "01 Variables, assignment and operator precedence.ipynb","tags": ["变量", "值的运算", "剑桥计算科学入门课"], "title": "0 1 变量，赋值和运算符优先级"},
+    {"path": "02 Control statements.ipynb","tags": ["布尔运算", "流程控制", "if语句", "for循环", "while循环", "剑桥计算科学入门课"], "title": "0 2 条件控制"},
+    {"path": "03 Types, type conversions and floating point arithmetic.ipynb","tags": ["数据类型", "数据类型转换", "浮点运算", "二进制表示", "浮点表示", "字符串", "剑桥计算科学入门课"], "title": "0 3 数据类型，类型转换和浮点运算"},
+    {"path": "04 Functions.ipynb","tags": ["函数", "参数", "变量的作用域", "递归函数", "剑桥计算科学入门课"], "title": "0 4 函数"},
+    {"path": "05 Library functions.ipynb","tags": ["python标准库", "NumPy", "pip", "字符串", "剑桥计算科学入门课"], "title": "0 5 库函数"},
+    {"path": "06 Data structures.ipynb","tags": ["数据结构", "列表", "元组", "字典", "剑桥计算科学入门课"], "title": "0 6 数据结构"},
+    {"path": "07 Numerical computation.ipynb","tags": ["NumPy", "数组", "剑桥计算科学入门课"], "title": "0 7 数值运算"},
+    {"path": "08 Plotting.ipynb","tags": ["Matplotlib", "绘图", "剑桥计算科学入门课"], "title": "0 8 绘图"},
+    {"path": "09 Error handling and testing.ipynb","tags": ["程序异常", "测试", "pytest", "剑桥计算科学入门课"], "title": "0 9 错误处理和测试"},
+    {"path": "10 Algorithms.ipynb","tags": ["算法", "伪代码", "搜索算法", "排序算法", "NumPy", "剑桥计算科学入门课"], "title": "0 10 算法"},
+    {"path": "11 Complexity.ipynb","tags": ["NumPy", "Matplotlib", "算法", "排序算法", "搜索算法", "复杂度", "剑桥计算科学入门课"], "title": "0 11 复杂度"},
+    {"path": "12 Object-oriented design.ipynb","tags": ["面向对象", "类", "NumPy", "算法", "剑桥计算科学入门课"], "title": "0 12 面向对象的设计"
     }
   ]
 }

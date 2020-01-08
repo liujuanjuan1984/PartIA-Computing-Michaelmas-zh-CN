@@ -20,10 +20,10 @@
     {"path": "05 Library functions.ipynb","tags": ["python标准库", "NumPy", "pip", "字符串", "剑桥计算科学入门课"], "title": "0 5 库函数"},
     {"path": "06 Data structures.ipynb","tags": ["数据结构", "列表", "元组", "字典", "剑桥计算科学入门课"], "title": "0 6 数据结构"},
     {"path": "07 Numerical computation.ipynb","tags": ["NumPy", "数组", "剑桥计算科学入门课"], "title": "0 7 数值运算"},
-    {"path": "08 Plotting.ipynb","tags": ["Matplotlib", "绘图", "剑桥计算科学入门课"], "title": "0 8 绘图"},
+    {"path": "08 Plotting.ipynb","tags": ["Matplotlib", "python绘图", "剑桥计算科学入门课"], "title": "0 8 绘图"},
     {"path": "09 Error handling and testing.ipynb","tags": ["程序异常", "测试", "pytest", "剑桥计算科学入门课"], "title": "0 9 错误处理和测试"},
     {"path": "10 Algorithms.ipynb","tags": ["算法", "伪代码", "搜索算法", "排序算法", "NumPy", "剑桥计算科学入门课"], "title": "0 10 算法"},
-    {"path": "11 Complexity.ipynb","tags": ["NumPy", "Matplotlib", "算法", "排序算法", "搜索算法", "复杂度", "剑桥计算科学入门课"], "title": "0 11 复杂度"},
+    {"path": "11 Complexity.ipynb","tags": ["NumPy", "Matplotlib", "算法", "排序算法", "搜索算法", "算法复杂度", "复杂度", "剑桥计算科学入门课"], "title": "0 11 复杂度"},
     {"path": "12 Object-oriented design.ipynb","tags": ["面向对象", "类", "NumPy", "算法", "剑桥计算科学入门课"], "title": "0 12 面向对象的设计"
     }
   ]
